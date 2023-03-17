@@ -1,5 +1,9 @@
 # Pixel-Miner
 
+
+Videolu Anlatım : https://youtu.be/FeQk1Z0BjMc
+
+
 Kurulum -> Setup.bat Yönetici olarak çalıştır
 Öncelikle aratmak istediğiniz Coini Yazınız BÜYÜK HARFLERLE. KISALIŞ OLARAK Örn:(BTC-ETH) gibi.
 
